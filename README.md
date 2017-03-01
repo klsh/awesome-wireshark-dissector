@@ -22,6 +22,9 @@
 ###adb
 * [wireshar-adb](https://github.com/cgutman/wireshark-adb-dissector)
 
+### alfred
+* [alfred-dissector](https://github.com/basros/alfred-dissector)
+
 ###bitcoin
 * [wireshark-bitcoin](https://github.com/lbotsch/wireshark-bitcoin)
 
