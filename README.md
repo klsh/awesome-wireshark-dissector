@@ -6,6 +6,7 @@
 ### Contents
 * [adb](#adb)
 * [alfred](#alfred)
+* [APE](#ape)
 * [bitcoin](#bitcoin)
 * [http2](#http2)
 * [lisp](#lisp)
@@ -25,6 +26,9 @@
 
 ###alfred
 * [alfred-dissector](https://github.com/basros/alfred-dissector)
+
+###ape
+* [APE](https://github.com/mrl5307/Dissect-APE)
 
 ###bitcoin
 * [wireshark-bitcoin](https://github.com/lbotsch/wireshark-bitcoin)
