@@ -8,6 +8,7 @@
 * [alfred](#alfred)
 * [APE](#ape)
 * [bitcoin](#bitcoin)
+* [d-star](#d-star)
 * [http2](#http2)
 * [lisp](#lisp)
 * [jboss](#jboss)
@@ -32,6 +33,9 @@
 
 ###bitcoin
 * [wireshark-bitcoin](https://github.com/lbotsch/wireshark-bitcoin)
+
+###d-star
+*[D-Star](https://github.com/phl0/dstardissector)
 
 ###http2
 * [http2-wireshark](https://github.com/sludin/http2-wireshark)
